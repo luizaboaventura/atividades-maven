@@ -1,0 +1,12 @@
+package com.example;
+
+import org.apache.commons.lang3.StringUtils;
+
+public class texto {
+
+	public static void main(String[] args) {
+		System.out.print("Vazio?" + StringUtils.isBlank("Luiza"));
+
+	}
+
+}

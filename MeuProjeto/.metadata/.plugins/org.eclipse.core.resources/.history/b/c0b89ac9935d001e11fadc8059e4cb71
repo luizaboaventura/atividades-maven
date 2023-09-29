@@ -1,0 +1,10 @@
+package com.example;
+
+import org.junit.Test;
+
+public class CalculadoraSomaTest {
+	@Test
+	public void testCalcularSoma () {
+		CalculadoraSoma calculadora = new CalculadoraSoma()
+	}
+}
